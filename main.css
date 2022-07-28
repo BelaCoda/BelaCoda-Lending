@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:100,300,400);
+
+body{
+     background-color:#e2dedb ;
+    }
+        
+   
+.knopka1{
+        
+position: absolute;
+width: 380px;
+height: 130px;
+left: 535px;
+top: 50px;
+text-decoration: none;
+background: #e2dedb ;
+border: solid 1px #b3aca7;
+}
+
+.regist{
+position: absolute;     
+width: 387px;
+height: 79px;
+left: 100px;
+top: 35px;
+
+font-family: 'Lato', sans-serif;
+
+font-weight: normal;
+font-size: 55px;
+line-height: 48px;
+text-decoration: none;
+color: #726659;
+}
+
+.sslka{
+        position: absolute;
+        font-family: 'Lato', sans-serif;
+width: 307px;
+height: 46px;
+left: 669px;
+top: 200px;
+font-size: 30px;
+text-decoration: none;
+color: #a79381;
+}
+
+.txt:hover{
+        color: #82756c;
+}
+    
+
+.txt:active{
+        color: #584f4a;
+}
+    
+
+
+
+.knopka1:hover{
+        background: #b5aba3;
+    }
+    
+.knopka1:active{
+        background: #9e948c;
+    }
+    

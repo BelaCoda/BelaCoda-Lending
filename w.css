@@ -1,0 +1,37 @@
+
+.knopka1{
+        
+    position: absolute;
+    width: 380px;
+    height: 130px;
+    left: 535px;
+    top: 50px;
+    text-decoration: none;
+    background: #e2dedb ;
+    border: solid 1px #b3aca7;
+}
+
+.knopka1:hover{
+    background: #b5aba3;
+}
+    
+.knopka1:active{
+    background: #9e948c;
+}
+
+.regist{
+    position: absolute;     
+    width: 387px;
+    height: 79px;
+    left: 100px;
+    top: 35px;
+    
+    font-family: 'Lato', sans-serif;
+    
+    font-weight: normal;
+    font-size: 55px;
+    line-height: 48px;
+    text-decoration: none;
+    color: #726659;
+    }
+    
